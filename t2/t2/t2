@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous" />
+        <title>Fritz Kahn</title>
+        <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,400;1,200&display=swap" rel="stylesheet">
+        <style>
+            body {
+                font-family: 'IBM Plex Serif', serif;
+                font-weight: 400;
+            }
+            h1 {
+                font-weight: 200;
+                font-style: italic;
+            }
+            @media (min-width: 992px) {
+                p {
+                    line-height: 1.8;
+                    text-align: justify;
+                }
+            }
+            figure img{
+                  filter: grayscale(1);
+            }
+            figure:hover img{
+                filter:grayscale(0);
+                transition: all ease 0.5s;
+            }
+        </style>
+    </head>
+    <body class="bg-light">
+        <div class="container">
+            <div class="row py-3">
+                <div class="col-12">
+                    <h1 class="py-4">Reemplaza este título</h1>
+                    <p>Fritz Kahn, astrónomo aficionado, científico médico de formación, ginecólogo de ocupación temprana, artista de inclinación, escritor, educador y humanista de vocación, estaba desarrollando metáforas visuales innovadoras para comprender la ciencia y el cuerpo humano, buscando despojar a las ideas científicas de su alienante complejidad e involucrar a una audiencia popular con esos principios esenciales de cómo funciona la vida.</p>
+                    <p>Kahn inspiró a generaciones de ilustradores científicos, la joya de 1959 El cuerpo humano: qué es y cómo funciona. Su influencia repercute en gran parte de nuestra comunicación visual actual y en las mejores infografías de hoy.</p>
+                    <p>Sus preferencias de diseño gráfico incluían métodos tales como collage de fotos, pintura y dibujo estilo como cómic surrealista, dada y otros. El arte de la analogía era el fuerte de él, todo ello destinado a explicar fenómenos cada vez más impenetrables por medios de la imaginación del espectador. Kahn empleó cualquier truco visual que pudo improvisar para el resultado final: comprensión popular.</p>
+                    <p>El legado del trabajo de Kahn tiene resonancia ahora y continuará en el futuro en el área de la ciencia, medicina y otras disciplinas.</p>
+                </div>
+            </div>
+            <div class="row">
+                <!--Imagen 1-->
+                <figure class="col-12 col-lg-6">
+                    <img src="146ec14e4a6c947a4ac823d554eb91ee.jpg" class="img-fluid shadow-sm" />
+                    <figcaption class="p-1 mb-2 small">El funcionamiento del olfato.</figcaption>
+                </figure>
+                <!--Imagen 2-->
+                <figure class="col-12 col-lg-6">
+                    <img src="Arthur_and_Fritz_Kahn_Collection_1889-1932_(19715332394).jpg" class="img-fluid shadow-sm" />
+                    <figcaption class="p-1 mb-2 small">Las capas de la piel.</figcaption>
+                </figure>
+                <!--Imagen 3-->
+                <figure class="col-12 col-lg-6">
+                    <img src="artofmedicine13.jpg" class="img-fluid shadow-sm" />
+                    <figcaption class="p-1 mb-2 small">El cuerpo humano como una maquina.</figcaption>
+                </figure>
+                <!--Imagen 4-->
+                <figure class="col-12 col-lg-6">
+                    <img src="fritzkahn3_grande.jpg" class="img-fluid shadow-sm" />
+                    <figcaption class="p-1 mb-2 small">El consumo de los alimentos.</figcaption>
+                </figure>
+                <!--Imagen 5-->
+                <figure class="col-12 col-lg-6">
+                    <img src="ml_fritz kahn_02_700_2.png" class="img-fluid shadow-sm" />
+                    <figcaption class="p-1 mb-2 small">el cerebro y el gusto a traves del olfato.</figcaption>
+                </figure>
+                <!--Imagen 6-->
+                <figure class="col-12 col-lg-6">
+                    <img src="Screen_Shot_2016-10-07_at_15.10.45_grande.png" class="img-fluid shadow-sm" />
+                    <figcaption class="p-1 mb-2 small">la vision y el habla como una maquina.</figcaption>
+                </figure>
+
+            </div>
+            <div class="row pt-5">
+                <footer class="col-12 py-3 border-top">
+                    <p>
+                        Erika Contreras <span class="float-right"><a href="https://github.com/profesorfaco/dno075-2020/">Infografía Digital</a> <span class="d-none d-lg-inline">&bull; Lunes 17 de agosto, 2020</span></span>
+                    </p>
+                </footer>
+            </div>
+        </div>
+    </body>
+</html>
